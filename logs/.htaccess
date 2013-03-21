@@ -1,0 +1,7 @@
+AuthType Basic
+AuthName "Restricted Area"
+AuthUserFile /services/webpages/h/a/handwritinginsights.com/etc/.htpasswd
+<Limit GET POST>
+require valid-user
+Options ExecCGI FollowSymLinks
+</Limit>

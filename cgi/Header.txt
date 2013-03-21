@@ -1,0 +1,40 @@
+<html>
+
+<head>
+<title>Mini-Analysis from Handwriting Insights.com</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="description" content="Fireworks Splice HTML">
+</head>
+<BODY BGCOLOR="#FFFFFF" LINK="#43D1BA" ALINK="#FF68FD"
+VLINK="#407CFF">
+
+<P><CENTER><TABLE BORDER=0>
+   <TR>
+      <TD VALIGN=top WIDTH=209 HEIGHT=39>
+    
+         
+         <P><MAP NAME="map1">
+            <AREA SHAPE=RECT COORDS="60,214,150,235" HREF="http://www.handwritinginsights.com/order.html">
+            <AREA SHAPE=RECT COORDS="11,214,57,234" HREF="http://www.handwritinginsights.com/demo.html">
+            <AREA SHAPE=RECT COORDS="15,188,83,202" HREF="http://www.handwritinginsights.com/contacts.html">
+            <AREA SHAPE=RECT COORDS="16,169,124,181" HREF="http://www.handwritinginsights.com/authors.html">
+            <AREA SHAPE=RECT COORDS="29,149,127,162" HREF="http://www.handwritinginsights.com/reviews.html">
+            <AREA SHAPE=RECT COORDS="28,133,161,147" HREF="http://www.handwritinginsights.com/ideas.html">
+            <AREA SHAPE=RECT COORDS="28,115,132,130" HREF="http://www.handwritinginsights.com/demo.html">
+            <AREA SHAPE=RECT COORDS="27,98,101,112" HREF="http://www.handwritinginsights.com/info.html">
+            <AREA SHAPE=RECT COORDS="1,0,161,73" HREF="http://www.handwritinginsights.com/index.html">
+         </MAP><IMG USEMAP="#map1" SRC="http://www.handwritinginsights.com/sidebar.gif" WIDTH=162
+         HEIGHT=238 X-SAS-UseImageWidth X-SAS-UseImageHeight BORDER=0
+         ALIGN=bottom>
+      </TD>
+
+<TD WIDTH=524 HEIGHT=39>
+         <P>
+<center><img src="http://www.handwritinginsights.com/reportheader.gif">
+<P>
+Each Handwriting Insights card has a handwriting characteristic on one side and a corresponding personality trait on the other.  You just match the characteristics to any handwriting sample, and flip the Handwriting Insights deck to learn all about the writer.  <P>
+Below are the corresponding personality traits for the handwriting characteristics you chose on the previous page.  This is just a small sampling of the 11 categories, 47 variations and 2,700,000 combinations contained in Handwriting Insights.  Buy your copy now!
+
+      </TD></TR>
+</TABLE></CENTER></P>
+

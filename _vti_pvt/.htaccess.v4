@@ -1,0 +1,11 @@
+# -FrontPage-
+
+Options None
+
+<Limit GET POST PUT DELETE>
+order deny,allow
+deny from all
+</Limit>
+AuthName 
+AuthUserFile  /www/htdocs/domains/s4/00664/www.handwritinginsights.com/webdocs/_vti_pvt/service.pwd
+AuthGroupFile /www/htdocs/domains/s4/00664/www.handwritinginsights.com/webdocs/_vti_pvt/service.grp  
