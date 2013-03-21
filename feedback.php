@@ -98,6 +98,18 @@
           <li><a href="declaration.htm"
              rel="self">Declaration of Independence</a></li>
         </ul>
+
+        <script type="text/javascript"><!--
+          google_ad_client = "ca-pub-6362931008837764";
+          /* Handwriting Insights -  Sidebar */
+          google_ad_slot = "3511621888";
+          google_ad_width = 160;
+          google_ad_height = 600;
+          //-->
+        </script>
+        <script type="text/javascript"
+          src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+        </script>
       </div><!-- End navigation -->
 
       <div class="sideHeader"></div><!-- Sidebar header -->
@@ -114,6 +126,24 @@
 
       <div id="content">
         <!-- Start content -->
+        <center>
+          <script type="text/javascript"><!--
+          google_ad_client = "ca-pub-6362931008837764";
+          /* Handwriting Insights -Leaderboards */
+          google_ad_slot = "6604689081";
+          google_ad_width = 728;
+          google_ad_height = 90;
+          //-->
+          </script>
+          <script type="text/javascript"
+          src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+          </script>
+
+
+        </center>
+
+
+
         <?php
         if(!array_key_exists('formMessage', $_SESSION))
         $_SESSION['formMessage'] = "";
@@ -175,6 +205,22 @@
                 name="submitButton"
                 value="Submit" />
         </form><?php session_destroy(); ?>
+
+        <center>
+          <script type="text/javascript"><!--
+            google_ad_client = "ca-pub-6362931008837764";
+            /* Handwriting Insights -Leaderboards */
+            google_ad_slot = "6604689081";
+            google_ad_width = 728;
+            google_ad_height = 90;
+            //-->
+          </script>
+          <script type="text/javascript"
+            src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+          </script>
+
+
+        </center>
       </div><!-- End content -->
     </div><!-- End main content wrapper -->
 
